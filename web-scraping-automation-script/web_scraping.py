@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import csv
-import time
+
 
 # Base URL of the website
 base_url = "https://books.toscrape.com/catalogue/category/books/science_22/"
