@@ -1,0 +1,11 @@
+ID,Date,Category,Method,Name,Details,Notes,Amount,Currency
+1,2024-02-01,Food,Credit Card,McDonald's,Lunch,NA,12.50,USD
+2,2024-02-03,Transport,Debit Card,Uber,Ride to work,NA,18.75,USD
+3,2024-02-05,Grocery,Cash,Walmart,Weekly shopping,NA,54.30,USD
+4,2024-02-08,Food,Credit Card,Starbucks,Coffee,NA,5.25,USD
+5,2024-02-10,Entertainment,Debit Card,Netflix,Subscription,NA,15.99,USD
+6,2024-02-12,Bills,Credit Card,Electric Company,Monthly bill,NA,120.00,USD
+7,2024-02-14,Food,Cash,KFC,Dinner,NA,20.00,USD
+8,2024-02-17,Transport,Debit Card,Lyft,Trip to airport,NA,25.60,USD
+9,2024-02-20,Shopping,Credit Card,Amazon,Electronics,NA,75.49,USD
+10,2024-02-22,Food,Cash,Burger King,Lunch,NA,10.45,USD
