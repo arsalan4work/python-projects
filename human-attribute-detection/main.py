@@ -37,8 +37,8 @@ def analyze_human_attribute(img):
     return response.text.strip()
 
 # app creation
-st.title("Human Attribute Detection")
-st.write("Upload an image to detection attrubutes...")
+st.title("Human Attribute Detection 🍳")
+st.write("Upload an image to detect attributes...")
 uploaded_image = st.file_uploader("Upload an Image", type=['png', 'jpg', 'jpeg'])
 
 if uploaded_image:
